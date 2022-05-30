@@ -1,6 +1,6 @@
 # BlazeandCave's Advancements Pack
 
-#Внимание это форк. Данный пак не пренадлежит NovaDev
+# Внимание это форк. Данный пак не пренадлежит NovaDev
 
 ### Version 1.3
 ### By [BlazeandCave][planetminecraft]
